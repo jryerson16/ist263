@@ -1,6 +1,6 @@
 body {
     font-family:Georgia,'Times New Roman',Times,serif;
-    color:cornflowerblue;
+    color:black
     background-color:rgb(200,200,200);
     margin-top: 2em;
     padding-left: 20px;
@@ -36,5 +36,5 @@ h2 {
 }
 
 .topnav a.active {
-  background-color: rgb(206,12,12);
+  background-color: #4CAF50;
   color: white;
